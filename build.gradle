@@ -69,7 +69,7 @@ tasks.named('wrapper', Wrapper).configure {
 
 dependencies {
     commonImplementation gradleApi()
-    commonImplementation 'commons-io:commons-io:2.8.0'
+    commonImplementation 'commons-io:commons-io:2.14.0'
     commonImplementation 'com.google.code.gson:gson:2.8.6'
     commonImplementation 'com.google.guava:guava:30.1-jre'
     commonImplementation 'de.siegmar:fastcsv:2.0.0'
